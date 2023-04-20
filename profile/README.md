@@ -11,7 +11,7 @@ A quick way to get details for all the chains in the Dotsama ecosystem. `@zigzag
 An authentication modal for react similar to web3modal for the Dotsama ecosystem. This library will provide you with a set of ContextProviders and Buttons that'll make authenticating with Polkadot a matter of minutes.
 More details coming soon... (TBD)
 
-### @zigzag/hooks (coming soon)
+#### @zigzag/hooks (coming soon)
 A non-exhaustive set of hooks on top of the @polkadot/api. You can use this alongside @zigzag/modal. More details coming soon...
 
 ### Documentation
