@@ -5,10 +5,10 @@ Zigzag is an opiniated set of tools in typescript and react for the Polkadot and
 ### Libraries
 
 #### [@zig-zag/chains](https://github.com/zigzag-js/chains)
-A quick way to get details for all the chains in the Dotsama ecosystem. `@zig-zag/chains` provides you everything you need from a parachain or a relaychain. 
+A quick way to get details for all the chains in the Polkadot and Kusama ecosystem. `@zig-zag/chains` provides you everything you need from a parachain or a relaychain. 
 
 #### @zig-zag/modal (coming soon)
-An authentication modal for react similar to web3modal for the Dotsama ecosystem. This library will provide you with a set of ContextProviders and Buttons that'll make authenticating with Polkadot a matter of minutes.
+An authentication modal for react similar to web3modal for the Polkadot and Kusama ecosystem. This library will provide you with a set of ContextProviders and Buttons that'll make authenticating with Polkadot a matter of minutes.
 More details coming soon... (TBD)
 
 #### @zig-zag/hooks (coming soon)
