@@ -1,20 +1,33 @@
-## Welcome to Zigzag 👋
+## ZigZag
 
-Zigzag is an opiniated set of tools in typescript and react for the Polkadot and Kusama ecosystem. It's built on top on the official @polkadot-js repos with a goal to provide simple, easy to use tools for developers. Our goal is to make sure your can focus on building ✨ awesome web3 ✨ apps with Polkadot while we take care of everything else.
+Developer tools for Polkadot SDK chains. Simple, typed, and ready to use.
 
-### Libraries
+### Published Packages
 
-#### [@zig-zag/chains](https://github.com/zigzag-js/chains)
-A quick way to get details for all the chains in the Polkadot and Kusama ecosystem. `@zig-zag/chains` provides you everything you need from a parachain or a relaychain. 
+#### [@zig-zag/chains](https://github.com/zigzag-js/chains) &middot; [![npm](https://img.shields.io/npm/v/@zig-zag/chains)](https://www.npmjs.com/package/@zig-zag/chains)
 
-#### @zig-zag/modal (coming soon)
-An authentication modal for react similar to web3modal for the Polkadot and Kusama ecosystem. This library will provide you with a set of ContextProviders and Buttons that'll make authenticating with Polkadot a matter of minutes.
-More details coming soon... (TBD)
+Typed chain registry for the Polkadot ecosystem — 20+ chains with logos, named RPCs, genesis hashes, and topology out of the box.
 
-#### @zig-zag/hooks (coming soon)
-A non-exhaustive set of hooks on top of the @polkadot/api. You can use this alongside @zigzag/modal. More details coming soon...
+```bash
+npm i @zig-zag/chains
+```
 
-### Documentation
+#### [@zig-zag/better-siwp](https://github.com/zigzag-js/better-siwp) &middot; [![npm](https://img.shields.io/npm/v/@zig-zag/better-siwp)](https://www.npmjs.com/package/@zig-zag/better-siwp)
 
-We are still very much in early development so there isn't an official docs website. You will find some docs in the repo's README.md for now.
+Sign In With Polkadot — a [Better Auth](https://better-auth.com) plugin that adds Polkadot wallet authentication to any JS/TS server. Works with Talisman, SubWallet, Polkadot.js, and any compatible extension.
 
+```bash
+npm i @zig-zag/better-siwp
+```
+
+[Live demo &rarr;](https://better-siwp.vercel.app)
+
+### Coming Soon
+
+- **@zig-zag/core** — Framework-agnostic utilities: SS58 formatting, denomination helpers, address display
+- **@zig-zag/react** — React hooks and providers for Dedot, LunoKit, and wallet management
+
+### Links
+
+- [npm &rarr;](https://www.npmjs.com/org/zig-zag)
+- [Twitter &rarr;](https://x.com/itsyogesh18)
