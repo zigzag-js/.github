@@ -29,5 +29,6 @@ npm i @zig-zag/better-siwp
 
 ### Links
 
+- [Docs &rarr;](https://zigzag.js.org)
 - [npm &rarr;](https://www.npmjs.com/org/zig-zag)
 - [Twitter &rarr;](https://x.com/itsyogesh18)
